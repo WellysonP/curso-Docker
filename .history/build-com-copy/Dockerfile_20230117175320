@@ -1,0 +1,4 @@
+FROM nginx:latest
+LABEL maintainer "Wellyson <aluno at cod3r.com.br>"
+
+RUN echo '<h1>Sem conteudo</h1>'
